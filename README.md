@@ -80,7 +80,7 @@ Daarnaast dien je ook de Server / API te beschermen tegen ongeldige materialen. 
 
 ## Vraag 7 - Notifications (10)
 
-Wanneer een lid is aangemaakt, wordt de gebruiker terug genavigeerd naar de `Members.Index.razor` pagina en moet een notificatie getoond worden. Gebruik [Blazored.Toast](https://github.com/Blazored/Toast) om een success notificatie te tonen: "&lt;FirstName&gt; &lt;LastName&gt; werd toegevoegd!". Gebruik the README.md van het project om deze functionaliteit te implementeren. Vervang &lt;FirstName&gt; and &lt;LastName&gt; door de voor- en achternaam van het nieuwe lid.
+Wanneer een lid is aangemaakt, wordt de gebruiker terug genavigeerd naar de `Members.Index.razor` pagina en moet een notificatie getoond worden. Gebruik [Blazored.Toast](https://github.com/Blazored/Toast) om een success notificatie te tonen: "&lt;FirstName&gt; &lt;LastName&gt; was added!". Gebruik the README.md van het project om deze functionaliteit te implementeren. Vervang &lt;FirstName&gt; and &lt;LastName&gt; door de voor- en achternaam van het nieuwe lid.
 
 ### End result - Creating members with validation and notifications
 
